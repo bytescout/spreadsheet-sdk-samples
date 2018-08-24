@@ -1,0 +1,281 @@
+## Index of source code examples
+
+
+\ASP Classic
+\ASP.NET
+\C#
+\C++ (managed)
+\C++ (unmanaged)
+\Compact Framework
+\Console Tool
+\JavaScript
+\PHP
+\VB.NET
+\VB6
+\VBScript
+\_Web API
+\ASP Classic\Generate XLS spreadsheet
+\ASP.NET\Display XLS as HTML (C#)
+\ASP.NET\Display XLS as HTML (VB.NET)
+\C#\Add Background Image
+\C#\Add Chart Area
+\C#\Add Chart Bar
+\C#\Add Chart Bubble
+\C#\Add Chart Column
+\C#\Add Chart Combination
+\C#\Add Chart Doughnut
+\C#\Add Chart Line
+\C#\Add Chart Pie
+\C#\Add Chart Radar
+\C#\Add Chart Stock
+\C#\Add Chart Surface
+\C#\Add Chart XYScatter
+\C#\Add Columns Into Existing Spreadsheet
+\C#\Add Header and Footer
+\C#\Add Image
+\C#\Add Image Into Existing Spreadsheet
+\C#\Add Images
+\C#\Add Images Advanced
+\C#\Add Rows Into Existing Spreadsheet
+\C#\Calculate Auto Update On Cell Change
+\C#\Calculate Formula In Cell
+\C#\Calculate XIRR Function
+\C#\Calculations and Spreadsheet as Database
+\C#\Cell Alignment
+\C#\Change Cell Width and Height
+\C#\Change Column Width and Row Height
+\C#\Change Data in Existing Spreadsheet
+\C#\Change Document Properties
+\C#\Convert XLS to CSV
+\C#\Convert XLS to TXT
+\C#\Convert XLS to XLSX
+\C#\Convert XLS to XML
+\C#\Convert XML to XLS
+\C#\Copy range
+\C#\Copy Worksheet
+\C#\CopyPaste Columns
+\C#\CopyPaste Rows
+\C#\Create Worksheets
+\C#\Create XLSX
+\C#\CSV to SQL Server
+\C#\CSV To XLS
+\C#\Custom Functions
+\C#\Date Formatting in Cells
+\C#\Export To 2D Array
+\C#\Export To Dataset
+\C#\Export To DataTable
+\C#\Export To HTML
+\C#\Export To Jagged Array
+\C#\Export To JSON
+\C#\Export To List
+\C#\Export To PDF
+\C#\Export to WinForms DataGrid
+\C#\Font Style In Cell
+\C#\Fonts Available For Cells
+\C#\Freeze Rows And Columns
+\C#\Get Cell Color
+\C#\Hello World
+\C#\Hidden Formula
+\C#\Hidden Rows And Columns
+\C#\Import From 2D Array
+\C#\Import From Data Table
+\C#\Import From Dataset
+\C#\Import From Jagged Array
+\C#\Import From JSON
+\C#\Import From List
+\C#\Import From WinForms DataGrid
+\C#\Insert Page Break
+\C#\Line Styles In Cells
+\C#\Merge Cells
+\C#\Merge Two Documents
+\C#\Number Format In Cells
+\C#\ODS to SQL Server
+\C#\Range Sort
+\C#\Read Cell Color
+\C#\Read CSV File
+\C#\Read Date From Cell
+\C#\Read Document Properties
+\C#\Read Formula From Cell
+\C#\Read Merged Cells
+\C#\Read Number Format In Cell
+\C#\Read ODS (Open Office Calc) Files
+\C#\Read TXT (tab delimited)
+\C#\Read XLSX (Office 2007) Files
+\C#\Remove Columns from Existing Spreadsheet
+\C#\Remove Rows from Existing Spreadsheet
+\C#\Rename Worksheet
+\C#\Rich Text Formatting in Cell
+\C#\Search Text
+\C#\Select Active Worksheet
+\C#\Set Cell Formula
+\C#\ShrinkToFit for Cells
+\C#\Special Cells
+\C#\Swap Cells and Their Values
+\C#\Swap Worksheets
+\C#\Template To XLS
+\C#\TXT to SQL Server
+\C#\Unicode Text
+\C#\Unmerge Cells
+\C#\Use Rich Formatting to Create Report
+\C#\Validate Cell if Value is in Range
+\C#\Validate Cells with Dates
+\C#\Validate Data in Cell and Mark Wrong With Color
+\C#\View Spreadsheet
+\C#\XLS to SQL Server
+\C#\XLS to SQL Server (via CSV BULK INSERT)
+\C#\XLS to XML and XML to XLS
+\C#\XLSX to SQL Server
+\C++ (managed)\HelloWorld
+\C++ (unmanaged)\Hello World
+\Compact Framework\PocketPC
+\Compact Framework\WinCE
+\Compact Framework\PocketPC\Read XLS (C#)
+\Compact Framework\PocketPC\Read XLS (VB.NET)
+\Compact Framework\PocketPC\Write XLS (C#)
+\Compact Framework\PocketPC\Write XLS (VB.NET)
+\Compact Framework\WinCE\Read XLS (C#)
+\Compact Framework\WinCE\Read XLS (VB.NET)
+\Compact Framework\WinCE\Write XLS (C#)
+\Compact Framework\WinCE\Write XLS (VB.NET)
+\Console Tool\Batch to XLS
+\Console Tool\Batch XLS to CSV
+\Console Tool\Batch to XLS\Input Files
+\Console Tool\Batch XLS to CSV\Input Files
+\VB.NET\Add Background Image
+\VB.NET\Add Chart Area
+\VB.NET\Add Chart Bar
+\VB.NET\Add Chart Bubble
+\VB.NET\Add Chart Column
+\VB.NET\Add Chart Combination
+\VB.NET\Add Chart Doughnut
+\VB.NET\Add Chart Line
+\VB.NET\Add Chart Pie
+\VB.NET\Add Chart Radar
+\VB.NET\Add Chart Stock
+\VB.NET\Add Chart Surface
+\VB.NET\Add Chart XYScatter
+\VB.NET\Add Columns Into Existing Spreadsheet
+\VB.NET\Add Header and Footer
+\VB.NET\Add Images
+\VB.NET\Add Images Advanced
+\VB.NET\Add Rows Into Existing Spreadsheet
+\VB.NET\Calculate Formula In Cell
+\VB.NET\Calculate XIRR Function
+\VB.NET\Calculations and Spreadsheet as Database
+\VB.NET\Cell Alignment
+\VB.NET\Change Cell Width and Height
+\VB.NET\Change Column Width and Row Height
+\VB.NET\Change Data in Existing Spreadsheet
+\VB.NET\Change Document Properties
+\VB.NET\Convert XLS to CSV
+\VB.NET\Convert XLS to TXT
+\VB.NET\Convert XLS to XLSX
+\VB.NET\Convert XLS to XML
+\VB.NET\Convert XML to XLS
+\VB.NET\Copy range
+\VB.NET\Copy Worksheet
+\VB.NET\CopyPaste Columns
+\VB.NET\CopyPaste Rows
+\VB.NET\Create Worksheets
+\VB.NET\Create XLSX
+\VB.NET\CSV to SQL Server
+\VB.NET\CSV to XLS
+\VB.NET\Custom Functions
+\VB.NET\Date Formatting in Cells
+\VB.NET\Export To 2D Array
+\VB.NET\Export To DataSet
+\VB.NET\Export To DataTable
+\VB.NET\Export To HTML
+\VB.NET\Export To Jagged Array
+\VB.NET\Export To JSON
+\VB.NET\Export To List
+\VB.NET\Export To PDF
+\VB.NET\Export to WinForms DataGrid
+\VB.NET\Font Style In Cell
+\VB.NET\Fonts Available For Cells
+\VB.NET\Freeze Rows And Columns
+\VB.NET\Get Cell Color
+\VB.NET\Hello World
+\VB.NET\Hidden Formula
+\VB.NET\Hidden Rows And Columns
+\VB.NET\Import From 2D Array
+\VB.NET\Import From DataSet
+\VB.NET\Import From DataTable
+\VB.NET\Import From Jagged Array
+\VB.NET\Import From JSON
+\VB.NET\Import From List
+\VB.NET\Import From WinForms DataGrid
+\VB.NET\Insert Page Break
+\VB.NET\Line Styles In Cells
+\VB.NET\Merge Cells
+\VB.NET\Merge Two Documents
+\VB.NET\Number Format In Cells
+\VB.NET\ODS to SQL Server
+\VB.NET\Read Cell Color
+\VB.NET\Read CSV File
+\VB.NET\Read Date From Cell
+\VB.NET\Read Document Properties
+\VB.NET\Read Formula From Cell
+\VB.NET\Read Merged Cells
+\VB.NET\Read Number Format In Cell
+\VB.NET\Read ODS (Open Office Calc) Files
+\VB.NET\Read XLSX (Office 2007) Files
+\VB.NET\Remove Columns from Existing Spreadsheet
+\VB.NET\Remove Rows from Existing Spreadsheet
+\VB.NET\Rename Worksheet
+\VB.NET\Rich Text Formatting in Cell
+\VB.NET\Search Text
+\VB.NET\Select Active Worksheet
+\VB.NET\Set Cell Formula
+\VB.NET\ShrinkToFit for Cells
+\VB.NET\Swap Cells and Their Values
+\VB.NET\Swap Worksheets
+\VB.NET\Template To XLS
+\VB.NET\TXT to SQL Server
+\VB.NET\Unicode Text
+\VB.NET\Unmerge Cells
+\VB.NET\Use Rich Formatting to Create Report
+\VB.NET\Validate Cell if Value is in Range
+\VB.NET\Validate Cells with Dates
+\VB.NET\Validate Data in Cell and Mark Wrong With Color
+\VB.NET\View Spreadsheet
+\VB.NET\XLS to SQL Server
+\VB.NET\XLS to SQL Server (via CSV BULK INSERT)
+\VB.NET\XLS to XML and XML to XLS
+\VB.NET\XLSX to SQL Server
+\VB6\Hello World
+\VBScript\Add Images
+\VBScript\Barcode from Excel
+\VBScript\Change Cell Background Color
+\VBScript\Change Column Height
+\VBScript\Change Row Height
+\VBScript\CSV to XLS
+\VBScript\Export To HTML
+\VBScript\Hello World
+\VBScript\Merge Cells and Set Alignment
+\VBScript\Rich Text Formatting
+\VBScript\Save As PDF
+\_Web API\CSV To PDF
+\_Web API\CSV To PDF\C#
+\_Web API\CSV To PDF\cURL
+\_Web API\CSV To PDF\Java
+\_Web API\CSV To PDF\JavaScript
+\_Web API\CSV To PDF\PHP
+\_Web API\CSV To PDF\PowerShell
+\_Web API\CSV To PDF\VB.NET
+\_Web API\CSV To PDF\C#\Convert CSV To PDF From Uploaded File
+\_Web API\CSV To PDF\C#\Convert CSV To PDF From URL
+\_Web API\CSV To PDF\C#\Convert CSV To PDF From URL Asynchronously
+\_Web API\CSV To PDF\cURL\Convert CSV To PDF From URL
+\_Web API\CSV To PDF\Java\Convert CSV To PDF From Uploaded File
+\_Web API\CSV To PDF\Java\Convert CSV To PDF From URL
+\_Web API\CSV To PDF\JavaScript\Convert CSV To PDF From Uploaded File (Node.js)
+\_Web API\CSV To PDF\JavaScript\Convert CSV To PDF From URL (Node.js)
+\_Web API\CSV To PDF\PHP\Convert CSV To PDF Asynchronously
+\_Web API\CSV To PDF\PHP\Convert CSV To PDF From Uploaded File
+\_Web API\CSV To PDF\PowerShell\Convert CSV To PDF From Uploaded File
+\_Web API\CSV To PDF\PowerShell\Convert CSV To PDF From URL
+\_Web API\CSV To PDF\PowerShell\Convert CSV To PDF From URL Asynchronously
+\_Web API\CSV To PDF\VB.NET\Convert CSV To PDF From Uploaded File
+\_Web API\CSV To PDF\VB.NET\Convert CSV To PDF From URL
+\_Web API\CSV To PDF\VB.NET\Convert CSV To PDF From URL Asynchronously
