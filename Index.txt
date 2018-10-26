@@ -100,6 +100,7 @@
 \C#\Read ODS (Open Office Calc) Files
 \C#\Read TXT (tab delimited)
 \C#\Read XLSX (Office 2007) Files
+\C#\Read XML Spreadsheet (SpreadsheetML format)
 \C#\Remove Columns from Existing Spreadsheet
 \C#\Remove Rows from Existing Spreadsheet
 \C#\Rename Worksheet
@@ -219,6 +220,7 @@
 \VB.NET\Read Number Format In Cell
 \VB.NET\Read ODS (Open Office Calc) Files
 \VB.NET\Read XLSX (Office 2007) Files
+\VB.NET\Read XML Spreadsheet (SpreadsheetML format)
 \VB.NET\Remove Columns from Existing Spreadsheet
 \VB.NET\Remove Rows from Existing Spreadsheet
 \VB.NET\Rename Worksheet
