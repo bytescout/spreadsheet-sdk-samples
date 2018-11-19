@@ -72,6 +72,7 @@
 \C#\Font Style In Cell
 \C#\Fonts Available For Cells
 \C#\Freeze Rows And Columns
+\C#\Generate Invoice
 \C#\Get Cell Color
 \C#\Hello World
 \C#\Hidden Formula
@@ -194,6 +195,7 @@
 \VB.NET\Font Style In Cell
 \VB.NET\Fonts Available For Cells
 \VB.NET\Freeze Rows And Columns
+\VB.NET\Generate Invoice
 \VB.NET\Get Cell Color
 \VB.NET\Hello World
 \VB.NET\Hidden Formula
