@@ -5,7 +5,6 @@
 \C#
 \C++ (managed)
 \C++ (unmanaged)
-\Compact Framework
 \Console Tool
 \JavaScript
 \PHP
@@ -128,16 +127,6 @@
 \C#\XLSX to SQL Server
 \C++ (managed)\HelloWorld
 \C++ (unmanaged)\Hello World
-\Compact Framework\PocketPC
-\Compact Framework\WinCE
-\Compact Framework\PocketPC\Read XLS (C#)
-\Compact Framework\PocketPC\Read XLS (VB.NET)
-\Compact Framework\PocketPC\Write XLS (C#)
-\Compact Framework\PocketPC\Write XLS (VB.NET)
-\Compact Framework\WinCE\Read XLS (C#)
-\Compact Framework\WinCE\Read XLS (VB.NET)
-\Compact Framework\WinCE\Write XLS (C#)
-\Compact Framework\WinCE\Write XLS (VB.NET)
 \Console Tool\Batch to XLS
 \Console Tool\Batch XLS to CSV
 \Console Tool\Batch to XLS\Input Files
