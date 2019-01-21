@@ -1,64 +1,69 @@
 ## Index of source code examples:
 
 \ASP Classic
-\ASP.NET
+\ASP.NET C#
+\ASP.NET VB.NET
 \C#
 \C++ (managed)
 \C++ (unmanaged)
-\Console Tool
+\Console
 \JavaScript
 \PHP
 \VB.NET
 \VB6
 \VBScript
-\_Web API
 \ASP Classic\Generate XLS spreadsheet
-\ASP.NET\Display XLS as HTML (C#)
-\ASP.NET\Display XLS as HTML (VB.NET)
+\ASP.NET C#\Display XLS as HTML
+\ASP.NET VB.NET\Display XLS as HTML
+\C#\Add Area Chart
 \C#\Add Background Image
-\C#\Add Chart Area
-\C#\Add Chart Bar
-\C#\Add Chart Bubble
-\C#\Add Chart Column
-\C#\Add Chart Combination
-\C#\Add Chart Doughnut
-\C#\Add Chart Line
-\C#\Add Chart Pie
-\C#\Add Chart Radar
-\C#\Add Chart Stock
-\C#\Add Chart Surface
-\C#\Add Chart XYScatter
+\C#\Add Bar Chart
+\C#\Add Bubble Chart
+\C#\Add Column Chart
 \C#\Add Columns Into Existing Spreadsheet
-\C#\Add Header and Footer
-\C#\Add Image
+\C#\Add Combination Chart
+\C#\Add Doughnut Chart
+\C#\Add Header and Footer for spreadsheet
 \C#\Add Image Into Existing Spreadsheet
-\C#\Add Images
+\C#\Add Image to spreadsheet
 \C#\Add Images Advanced
+\C#\Add Images to spreadsheet
+\C#\Add Line Chart
+\C#\Add Pie Chart
+\C#\Add Radar Chart
 \C#\Add Rows Into Existing Spreadsheet
+\C#\Add Stock Chart
+\C#\Add Surface Chart
+\C#\Add XYScatter Chart
 \C#\Calculate Auto Update On Cell Change
 \C#\Calculate Formula In Cell
 \C#\Calculate XIRR Function
 \C#\Calculations and Spreadsheet as Database
-\C#\Cell Alignment
 \C#\Change Cell Width and Height
 \C#\Change Column Width and Row Height
 \C#\Change Data in Existing Spreadsheet
 \C#\Change Document Properties
+\C#\convert CSV to SQL Server
+\C#\convert CSV To XLS
+\C#\convert ODS to SQL Server
+\C#\Convert Template To XLS
+\C#\convert TXT to SQL Server
 \C#\Convert XLS to CSV
+\C#\convert XLS to SQL Server
+\C#\convert XLS to SQL Server (via CSV BULK INSERT)
 \C#\Convert XLS to TXT
 \C#\Convert XLS to XLSX
 \C#\Convert XLS to XML
+\C#\convert XLS to XML and XML to XLS
+\C#\convert XLSX to SQL Server
 \C#\Convert XML to XLS
 \C#\Copy range
 \C#\Copy Worksheet
 \C#\CopyPaste Columns
 \C#\CopyPaste Rows
+\C#\Create Hello World Spreadsheet
 \C#\Create Worksheets
 \C#\Create XLSX
-\C#\CSV to SQL Server
-\C#\CSV To XLS
-\C#\Custom Functions
-\C#\Date Formatting in Cells
 \C#\Export To 2D Array
 \C#\Export To Dataset
 \C#\Export To DataTable
@@ -73,7 +78,6 @@
 \C#\Freeze Rows And Columns
 \C#\Generate Invoice
 \C#\Get Cell Color
-\C#\Hello World
 \C#\Hidden Formula
 \C#\Hidden Rows And Columns
 \C#\Import From 2D Array
@@ -87,9 +91,6 @@
 \C#\Line Styles In Cells
 \C#\Merge Cells
 \C#\Merge Two Documents
-\C#\Number Format In Cells
-\C#\ODS to SQL Server
-\C#\Range Sort
 \C#\Read Cell Color
 \C#\Read CSV File
 \C#\Read Date From Cell
@@ -104,74 +105,80 @@
 \C#\Remove Columns from Existing Spreadsheet
 \C#\Remove Rows from Existing Spreadsheet
 \C#\Rename Worksheet
-\C#\Rich Text Formatting in Cell
 \C#\Search Text
 \C#\Select Active Worksheet
+\C#\Set Cell Alignment
 \C#\Set Cell Formula
-\C#\ShrinkToFit for Cells
-\C#\Special Cells
+\C#\Set Date Formatting in Cells
+\C#\Set Number Format In Cells
+\C#\Set Rich Text Formatting in Cell
+\C#\Set ShrinkToFit for Cells
+\C#\Sort Range
 \C#\Swap Cells and Their Values
 \C#\Swap Worksheets
-\C#\Template To XLS
-\C#\TXT to SQL Server
-\C#\Unicode Text
 \C#\Unmerge Cells
+\C#\Use Custom Functions
 \C#\Use Rich Formatting to Create Report
+\C#\Use Special Cells
+\C#\Use Unicode Text
 \C#\Validate Cell if Value is in Range
 \C#\Validate Cells with Dates
 \C#\Validate Data in Cell and Mark Wrong With Color
 \C#\View Spreadsheet
-\C#\XLS to SQL Server
-\C#\XLS to SQL Server (via CSV BULK INSERT)
-\C#\XLS to XML and XML to XLS
-\C#\XLSX to SQL Server
-\C++ (managed)\HelloWorld
-\C++ (unmanaged)\Hello World
-\Console Tool\Batch to XLS
-\Console Tool\Batch XLS to CSV
-\Console Tool\Batch to XLS\Input Files
-\Console Tool\Batch XLS to CSV\Input Files
+\C++ (managed)\create simple spreadsheet
+\C++ (unmanaged)\create simple spreasdsheet
+\Console\convert in Batch from XLS to CSV
+\Console\convert in batch to XLS
+\Console\convert in Batch from XLS to CSV\Input Files
+\Console\convert in batch to XLS\Input Files
+\JavaScript\create spreadsheet
+\PHP\create spreadsheet
+\VB.NET\Add Area Chart
 \VB.NET\Add Background Image
-\VB.NET\Add Chart Area
-\VB.NET\Add Chart Bar
-\VB.NET\Add Chart Bubble
-\VB.NET\Add Chart Column
-\VB.NET\Add Chart Combination
-\VB.NET\Add Chart Doughnut
-\VB.NET\Add Chart Line
-\VB.NET\Add Chart Pie
-\VB.NET\Add Chart Radar
-\VB.NET\Add Chart Stock
-\VB.NET\Add Chart Surface
-\VB.NET\Add Chart XYScatter
+\VB.NET\Add Bar Chart
+\VB.NET\Add Bubble Chart
+\VB.NET\Add Column Chart
 \VB.NET\Add Columns Into Existing Spreadsheet
+\VB.NET\Add Combination Chart
+\VB.NET\Add Doughnut Chart
 \VB.NET\Add Header and Footer
 \VB.NET\Add Images
 \VB.NET\Add Images Advanced
+\VB.NET\Add Line Chart
+\VB.NET\Add Pie Chart
+\VB.NET\Add Radar Chart
 \VB.NET\Add Rows Into Existing Spreadsheet
+\VB.NET\Add Stock Chart
+\VB.NET\Add Surface Chart
+\VB.NET\Add XYScatter Chart
 \VB.NET\Calculate Formula In Cell
 \VB.NET\Calculate XIRR Function
 \VB.NET\Calculations and Spreadsheet as Database
-\VB.NET\Cell Alignment
 \VB.NET\Change Cell Width and Height
 \VB.NET\Change Column Width and Row Height
 \VB.NET\Change Data in Existing Spreadsheet
 \VB.NET\Change Document Properties
+\VB.NET\convert ODS to SQL Server
+\VB.NET\convert Template To XLS
+\VB.NET\convert TXT to SQL Server
 \VB.NET\Convert XLS to CSV
+\VB.NET\convert XLS to SQL Server
+\VB.NET\convert XLS to SQL Server (via CSV BULK INSERT)
 \VB.NET\Convert XLS to TXT
 \VB.NET\Convert XLS to XLSX
 \VB.NET\Convert XLS to XML
+\VB.NET\convert XLS to XML and XML to XLS
+\VB.NET\convert XLSX to SQL Server
 \VB.NET\Convert XML to XLS
 \VB.NET\Copy range
 \VB.NET\Copy Worksheet
 \VB.NET\CopyPaste Columns
 \VB.NET\CopyPaste Rows
+\VB.NET\create simple Hello World spreadsheet
 \VB.NET\Create Worksheets
 \VB.NET\Create XLSX
 \VB.NET\CSV to SQL Server
 \VB.NET\CSV to XLS
-\VB.NET\Custom Functions
-\VB.NET\Date Formatting in Cells
 \VB.NET\Export To 2D Array
 \VB.NET\Export To DataSet
 \VB.NET\Export To DataTable
@@ -186,9 +193,6 @@
 \VB.NET\Freeze Rows And Columns
 \VB.NET\Generate Invoice
 \VB.NET\Get Cell Color
-\VB.NET\Hello World
-\VB.NET\Hidden Formula
-\VB.NET\Hidden Rows And Columns
 \VB.NET\Import From 2D Array
 \VB.NET\Import From DataSet
 \VB.NET\Import From DataTable
@@ -201,7 +205,6 @@
 \VB.NET\Merge Cells
 \VB.NET\Merge Two Documents
 \VB.NET\Number Format In Cells
-\VB.NET\ODS to SQL Server
 \VB.NET\Read Cell Color
 \VB.NET\Read CSV File
 \VB.NET\Read Date From Cell
@@ -218,56 +221,31 @@
 \VB.NET\Rich Text Formatting in Cell
 \VB.NET\Search Text
 \VB.NET\Select Active Worksheet
+\VB.NET\Set Cell Alignment
 \VB.NET\Set Cell Formula
-\VB.NET\ShrinkToFit for Cells
+\VB.NET\Set Custom Functions
+\VB.NET\Set Date Formatting in Cells
+\VB.NET\Set Hidden Formula
+\VB.NET\Set Hidden Rows And Columns
+\VB.NET\set ShrinkToFit for Cells
 \VB.NET\Swap Cells and Their Values
 \VB.NET\Swap Worksheets
-\VB.NET\Template To XLS
-\VB.NET\TXT to SQL Server
-\VB.NET\Unicode Text
 \VB.NET\Unmerge Cells
 \VB.NET\Use Rich Formatting to Create Report
+\VB.NET\use Unicode Text
 \VB.NET\Validate Cell if Value is in Range
 \VB.NET\Validate Cells with Dates
 \VB.NET\Validate Data in Cell and Mark Wrong With Color
 \VB.NET\View Spreadsheet
-\VB.NET\XLS to SQL Server
-\VB.NET\XLS to SQL Server (via CSV BULK INSERT)
-\VB.NET\XLS to XML and XML to XLS
-\VB.NET\XLSX to SQL Server
-\VB6\Hello World
-\VBScript\Add Images
-\VBScript\Barcode from Excel
+\VB6\create a spreadsheet
+\VBScript\Add Images to spreadsheet
 \VBScript\Change Cell Background Color
 \VBScript\Change Column Height
 \VBScript\Change Row Height
-\VBScript\CSV to XLS
+\VBScript\convert CSV to XLS
+\VBScript\create Barcode from Excel
+\VBScript\create simple spreadsheet
 \VBScript\Export To HTML
-\VBScript\Hello World
 \VBScript\Merge Cells and Set Alignment
-\VBScript\Rich Text Formatting
 \VBScript\Save As PDF
-\_Web API\CSV To PDF
-\_Web API\CSV To PDF\C#
-\_Web API\CSV To PDF\cURL
-\_Web API\CSV To PDF\Java
-\_Web API\CSV To PDF\JavaScript
-\_Web API\CSV To PDF\PHP
-\_Web API\CSV To PDF\PowerShell
-\_Web API\CSV To PDF\VB.NET
-\_Web API\CSV To PDF\C#\Convert CSV To PDF From Uploaded File
-\_Web API\CSV To PDF\C#\Convert CSV To PDF From URL
-\_Web API\CSV To PDF\C#\Convert CSV To PDF From URL Asynchronously
-\_Web API\CSV To PDF\cURL\Convert CSV To PDF From URL
-\_Web API\CSV To PDF\Java\Convert CSV To PDF From Uploaded File
-\_Web API\CSV To PDF\Java\Convert CSV To PDF From URL
-\_Web API\CSV To PDF\JavaScript\Convert CSV To PDF From Uploaded File (Node.js)
-\_Web API\CSV To PDF\JavaScript\Convert CSV To PDF From URL (Node.js)
-\_Web API\CSV To PDF\PHP\Convert CSV To PDF Asynchronously
-\_Web API\CSV To PDF\PHP\Convert CSV To PDF From Uploaded File
-\_Web API\CSV To PDF\PowerShell\Convert CSV To PDF From Uploaded File
-\_Web API\CSV To PDF\PowerShell\Convert CSV To PDF From URL
-\_Web API\CSV To PDF\PowerShell\Convert CSV To PDF From URL Asynchronously
-\_Web API\CSV To PDF\VB.NET\Convert CSV To PDF From Uploaded File
-\_Web API\CSV To PDF\VB.NET\Convert CSV To PDF From URL
-\_Web API\CSV To PDF\VB.NET\Convert CSV To PDF From URL Asynchronously
+\VBScript\Use Rich Text Formatting
