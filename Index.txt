@@ -12,7 +12,7 @@
 \VB.NET
 \VB6
 \VBScript
-\ASP Classic\Generate XLS spreadsheet
+\ASP Classic\Generate XLS Spreadsheet
 \ASP.NET C#\Display XLS as HTML
 \ASP.NET VB.NET\Display XLS as HTML
 \C#\Add Area Chart
@@ -23,11 +23,11 @@
 \C#\Add Columns Into Existing Spreadsheet
 \C#\Add Combination Chart
 \C#\Add Doughnut Chart
-\C#\Add Header and Footer for spreadsheet
+\C#\Add Header and Footer for Spreadsheet
 \C#\Add Image Into Existing Spreadsheet
-\C#\Add Image to spreadsheet
+\C#\Add Image to Spreadsheet
 \C#\Add Images Advanced
-\C#\Add Images to spreadsheet
+\C#\Add Images to Spreadsheet
 \C#\Add Line Chart
 \C#\Add Pie Chart
 \C#\Add Radar Chart
@@ -43,21 +43,21 @@
 \C#\Change Column Width and Row Height
 \C#\Change Data in Existing Spreadsheet
 \C#\Change Document Properties
-\C#\convert CSV to SQL Server
-\C#\convert CSV To XLS
-\C#\convert ODS to SQL Server
+\C#\Convert CSV to SQL Server
+\C#\Convert CSV To XLS
+\C#\Convert ODS to SQL Server
 \C#\Convert Template To XLS
-\C#\convert TXT to SQL Server
+\C#\Convert TXT to SQL Server
 \C#\Convert XLS to CSV
-\C#\convert XLS to SQL Server
-\C#\convert XLS to SQL Server (via CSV BULK INSERT)
+\C#\Convert XLS to SQL Server
+\C#\Convert XLS to SQL Server (via CSV BULK INSERT)
 \C#\Convert XLS to TXT
 \C#\Convert XLS to XLSX
 \C#\Convert XLS to XML
-\C#\convert XLS to XML and XML to XLS
-\C#\convert XLSX to SQL Server
+\C#\Convert XLS to XML and XML to XLS
+\C#\Convert XLSX to SQL Server
 \C#\Convert XML to XLS
-\C#\Copy range
+\C#\Copy Range
 \C#\Copy Worksheet
 \C#\CopyPaste Columns
 \C#\CopyPaste Rows
@@ -99,7 +99,7 @@
 \C#\Read Merged Cells
 \C#\Read Number Format In Cell
 \C#\Read ODS (Open Office Calc) Files
-\C#\Read TXT (tab delimited)
+\C#\Read TXT (Tab Delimited)
 \C#\Read XLSX (Office 2007) Files
 \C#\Read XML Spreadsheet (SpreadsheetML format)
 \C#\Remove Columns from Existing Spreadsheet
@@ -125,14 +125,14 @@
 \C#\Validate Cells with Dates
 \C#\Validate Data in Cell and Mark Wrong With Color
 \C#\View Spreadsheet
-\C++ (managed)\create simple spreadsheet
-\C++ (unmanaged)\create simple spreasdsheet
-\Console\convert in Batch from XLS to CSV
-\Console\convert in batch to XLS
-\Console\convert in Batch from XLS to CSV\Input Files
-\Console\convert in batch to XLS\Input Files
-\JavaScript\create spreadsheet
-\PHP\create spreadsheet
+\C++ (managed)\Create Simple Spreadsheet
+\C++ (unmanaged)\Create Simple Spreasdsheet
+\Console\Convert in Batch from XLS to CSV
+\Console\Convert in Batch to XLS
+\Console\Convert in Batch from XLS to CSV\Input Files
+\Console\Convert in Batch to XLS\Input Files
+\JavaScript\Create Spreadsheet
+\PHP\Create Spreadsheet
 \VB.NET\Add Area Chart
 \VB.NET\Add Background Image
 \VB.NET\Add Bar Chart
@@ -158,23 +158,23 @@
 \VB.NET\Change Column Width and Row Height
 \VB.NET\Change Data in Existing Spreadsheet
 \VB.NET\Change Document Properties
-\VB.NET\convert ODS to SQL Server
-\VB.NET\convert Template To XLS
-\VB.NET\convert TXT to SQL Server
+\VB.NET\Convert ODS to SQL Server
+\VB.NET\Convert Template To XLS
+\VB.NET\Convert TXT to SQL Server
 \VB.NET\Convert XLS to CSV
-\VB.NET\convert XLS to SQL Server
-\VB.NET\convert XLS to SQL Server (via CSV BULK INSERT)
+\VB.NET\Convert XLS to SQL Server
+\VB.NET\Convert XLS to SQL Server (via CSV BULK INSERT)
 \VB.NET\Convert XLS to TXT
 \VB.NET\Convert XLS to XLSX
 \VB.NET\Convert XLS to XML
-\VB.NET\convert XLS to XML and XML to XLS
-\VB.NET\convert XLSX to SQL Server
+\VB.NET\Convert XLS to XML and XML to XLS
+\VB.NET\Convert XLSX to SQL Server
 \VB.NET\Convert XML to XLS
-\VB.NET\Copy range
+\VB.NET\Copy Range
 \VB.NET\Copy Worksheet
 \VB.NET\CopyPaste Columns
 \VB.NET\CopyPaste Rows
-\VB.NET\create simple Hello World spreadsheet
+\VB.NET\Create Simple Hello World Spreadsheet
 \VB.NET\Create Worksheets
 \VB.NET\Create XLSX
 \VB.NET\CSV to SQL Server
@@ -227,24 +227,24 @@
 \VB.NET\Set Date Formatting in Cells
 \VB.NET\Set Hidden Formula
 \VB.NET\Set Hidden Rows And Columns
-\VB.NET\set ShrinkToFit for Cells
+\VB.NET\Set ShrinkToFit for Cells
 \VB.NET\Swap Cells and Their Values
 \VB.NET\Swap Worksheets
 \VB.NET\Unmerge Cells
 \VB.NET\Use Rich Formatting to Create Report
-\VB.NET\use Unicode Text
+\VB.NET\Use Unicode Text
 \VB.NET\Validate Cell if Value is in Range
 \VB.NET\Validate Cells with Dates
 \VB.NET\Validate Data in Cell and Mark Wrong With Color
 \VB.NET\View Spreadsheet
-\VB6\create a spreadsheet
-\VBScript\Add Images to spreadsheet
+\VB6\Create Spreadsheet
+\VBScript\Add Images to Spreadsheet
 \VBScript\Change Cell Background Color
 \VBScript\Change Column Height
 \VBScript\Change Row Height
-\VBScript\convert CSV to XLS
-\VBScript\create Barcode from Excel
-\VBScript\create simple spreadsheet
+\VBScript\Convert CSV to XLS
+\VBScript\Create Barcode from Excel
+\VBScript\Create Simple Spreadsheet
 \VBScript\Export To HTML
 \VBScript\Merge Cells and Set Alignment
 \VBScript\Save As PDF
