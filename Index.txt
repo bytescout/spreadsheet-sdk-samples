@@ -243,6 +243,7 @@
 \VBScript\Change Column Height
 \VBScript\Change Row Height
 \VBScript\Convert CSV to XLS
+\VBScript\Copy Data Between Spreadsheets
 \VBScript\Create Barcode from Excel
 \VBScript\Create Simple Spreadsheet
 \VBScript\Export To HTML
