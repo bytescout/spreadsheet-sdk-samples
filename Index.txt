@@ -64,6 +64,7 @@
 \C#\Create Hello World Spreadsheet
 \C#\Create Worksheets
 \C#\Create XLSX
+\C#\Download and Process file
 \C#\Export To 2D Array
 \C#\Export To Dataset
 \C#\Export To DataTable
@@ -179,6 +180,7 @@
 \VB.NET\Create XLSX
 \VB.NET\CSV to SQL Server
 \VB.NET\CSV to XLS
+\VB.NET\Download and Process file
 \VB.NET\Export To 2D Array
 \VB.NET\Export To DataSet
 \VB.NET\Export To DataTable
