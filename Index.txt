@@ -92,6 +92,7 @@
 \C#\Line Styles In Cells
 \C#\Merge Cells
 \C#\Merge Two Documents
+\C#\Override Culture and Date Format Settings
 \C#\Read Cell Color
 \C#\Read CSV File
 \C#\Read Date From Cell
@@ -207,6 +208,7 @@
 \VB.NET\Merge Cells
 \VB.NET\Merge Two Documents
 \VB.NET\Number Format In Cells
+\VB.NET\Override Culture and Date Format Settings
 \VB.NET\Read Cell Color
 \VB.NET\Read CSV File
 \VB.NET\Read Date From Cell
