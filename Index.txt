@@ -59,6 +59,7 @@
 \C#\Convert XML to XLS
 \C#\Copy Range
 \C#\Copy Worksheet
+\C#\Copy Worksheet Data To Clipboard
 \C#\CopyPaste Columns
 \C#\CopyPaste Rows
 \C#\Create Hello World Spreadsheet
@@ -175,6 +176,7 @@
 \VB.NET\Convert XML to XLS
 \VB.NET\Copy Range
 \VB.NET\Copy Worksheet
+\VB.NET\Copy Worksheet Data To Clipboard
 \VB.NET\CopyPaste Columns
 \VB.NET\CopyPaste Rows
 \VB.NET\Create Simple Hello World Spreadsheet
