@@ -7,6 +7,7 @@
 \C++ (managed)
 \C++ (unmanaged)
 \Console
+\Delphi
 \JavaScript
 \PHP
 \VB.NET
@@ -135,6 +136,9 @@
 \Console\Convert in Batch to XLS
 \Console\Convert in Batch from XLS to CSV\Input Files
 \Console\Convert in Batch to XLS\Input Files
+\Delphi\Add Image to Spreadsheet
+\Delphi\CopyPaste Rows
+\Delphi\Validate Cells with Dates
 \JavaScript\Create Spreadsheet
 \PHP\Create Spreadsheet
 \VB.NET\Add Area Chart
