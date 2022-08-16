@@ -109,6 +109,7 @@
 \C#\Remove Columns from Existing Spreadsheet
 \C#\Remove Rows from Existing Spreadsheet
 \C#\Rename Worksheet
+\C#\Search and Replace Text
 \C#\Search Text
 \C#\Select Active Worksheet
 \C#\Set Cell Alignment
