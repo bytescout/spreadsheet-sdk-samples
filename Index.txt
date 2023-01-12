@@ -61,6 +61,7 @@
 \C#\Copy Range
 \C#\Copy Worksheet
 \C#\Copy Worksheet Data To Clipboard
+\C#\Copy Worksheet to Another Workbook
 \C#\CopyPaste Columns
 \C#\CopyPaste Rows
 \C#\Create Hello World Spreadsheet
